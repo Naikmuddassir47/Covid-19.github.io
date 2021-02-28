@@ -1,0 +1,255 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-size:98%;
+    outline: none;
+}
+body{
+  
+    background-color:#e8e8e8 ;      
+                                       /* color change */
+}
+dropdown-menu,dropdown-item{
+    color: #682c0e;
+}
+
+.logo>h1 {
+    font-size: 18px;
+    padding: 9px;
+    display: inline-block;
+    padding-top: 9px;
+    letter-spacing: 2px;
+    color:#682c0e;
+    margin-top: 5px;
+    top: 11px;
+    font-weight: 700;
+    letter-spacing: 6px;
+}
+.container1{
+    margin-top: 20%;
+    margin-left: 400px;
+    background-color:#cdd2df; ;
+    border: 5px solid #682c0e ;
+    padding: 30px;
+}
+
+.hamburger {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+  }
+.login-form {
+    padding-top: 18px;
+}
+
+.reg_form>input {
+    outline: none;
+    border: none;
+    border-bottom: 3px solid #682c0e;
+    margin-left: 3px;
+    /* padding-left: 14px; */
+    padding-bottom: -15px;
+    /* border-left: 18px solid #0000; */
+    width: 157px;
+    margin-right: 10px;
+}
+
+input.input-box {
+    float: right;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #682c0e;
+    /* margin-left: 12px; */
+    /* padding-left: 14px; */
+    padding-bottom: -15px;
+    /* border-left: 18px solid #0000; */
+    width: 157px;
+    margin-right: 8px;
+    background: transparent;
+    
+}
+
+input.input-box::placeholder {
+    font-size: 10px;
+    color:rgb(100, 47, 100);
+}
+
+label {
+    margin: 0px;
+    color: #682c0e;
+    font-style: bold;
+    font-size: small;
+    font
+}
+
+button.submit-button {
+    background-color:#682c0e;
+    color: white;
+    border-radius: 29px;
+    box-shadow: none;
+    text-shadow: none;
+    border: none;
+    cursor: pointer;
+    padding: 3px 20px;
+    margin-top: 5px;
+}
+
+button.submit-button:hover {
+    background-color: #e79e4f;
+    color: black;
+    border-radius: 28px;
+    box-shadow: none;
+    text-shadow: none;
+    border: none;
+    cursor: pointer;
+    padding: 3px 21px;
+    margin-top: 5px;
+    border: 1px solid #99b83c;
+}
+
+/* div#hero_banner {
+    background-image: url("LOGO1.png");
+    background-size: cover;
+} */
+
+.reg_form {
+    /* display: inline-block; */
+    /* float: right; */
+    /* width: 31%; */
+    padding: 24px 6px 27px 21px;
+    background-color:#cdd2df;
+    margin:auto;
+    border-radius:15px;
+    border: 5px solid #682c0e ;
+    
+    
+}
+
+input.input-box1 {
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #682c0e;
+    margin-left: 3px;
+    /* padding-left: 14px; */
+    padding-bottom: -15px;
+    /* border-left: 18px solid #0000; */
+    width: 157px;
+    margin-right: 10px;
+}
+
+.form-group.gap {
+    margin: 39px 16px 37px 2px;
+}
+
+.background-content {
+    padding: 3% 5% 10% 5%;         /* brought to center*/
+   
+}
+
+.searchemp {
+    width: 247px;
+}
+
+.emp_style {
+    height: 100vh;
+}
+
+ul.emp_nav {
+    list-style: none;
+    /* margin: 84px 0px; */
+    padding: 0px;
+    /* width: 16.7%; */
+}
+
+li.side-menu {
+    /* color: white; */
+    /* margin: 58px -12px; */
+}
+
+side-menu>a {
+    /* background: white; */
+}
+
+a.link-menu {
+    /* background: #99b83c; */
+    border-radius: 8px;
+    /* padding: 23px; */
+    line-height: 45px;
+    font-size: 14px;
+    /* text-align: center; */
+    color: white;
+    /* text-transform:  uppercase; */
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+thead {
+    color: #682c0e;
+}
+
+table {
+    border-color: #682c0e;
+    margin: auto;
+    
+}
+
+td{
+    font-family: 'Open Sans' !important;
+    font-size:13px;
+    text-align:center;
+}
+
+th{
+    font-family: 'Open Sans' !important;
+    font-size:15px;
+    text-align:center;
+}
+
+#nav_bar a {
+    color: white;
+}
+
+a:hover {
+    list-style: none;
+    text-decoration: none;
+}
+
+#border-style {
+    border-bottom: 3px solid #682c0e;
+    background-color: #F9F9F9;
+    position: relative;
+}
+
+h3#jeena {
+    color: #682c0e;
+    font-weight: 550;
+    padding: 21px 0px;
+    font-size: 17px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    background: #f9f9f9;
+    text-align: center;
+    border-right: 2px solid #682c0e;
+    border-bottom: 2px solid #682c0e;            /* color*/
+    width: 100%;
+    /* position: absolute; */
+}
+
+.col-2.emp_style {
+    background: #323544;
+    min-height: 100vh;
+    height: auto;
+}
+
+div#grey {
+    background-color: #EDEDEF;
+}
+
+.icon-color {
+    color:salmon;
+}
+
+.catTable{
+    font-family: 'Open Sans' !important;
+    
+}
